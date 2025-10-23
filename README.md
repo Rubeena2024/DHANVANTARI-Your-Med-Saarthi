@@ -38,7 +38,7 @@ Dhanvantari comprises:
 - **Kodular App**: Mobile interface to set alarms and select medicines  
 - **Firebase Realtime Database**: Stores alarm times and medicine selection  
 - **Google Apps Script**: Logs medicine intake to Google Sheets  
-- **=Twilio Alerts**: Sends sms notifications if medicine is not taken  
+- **Twilio Alerts**: Sends sms notifications if medicine is not taken  
 
 ---
 
